@@ -1,6 +1,2 @@
-What are some new things to try?
-Allan's Blog
-Take a class on a subject unrelated to your career, community, or family—something you've always been interested in, but never made the time to pursue.
-Go to a new restaurant, preferably an ethnic restaurant and try something different on the menu.
-Take a yoga class, if you've never done.
-Meditate.
+Nov 30, 2018 — I'm new to Maven. I have converted my Cucumber project to Maven and I'm getting execution error when I try to run Maven Clean or Maven Build.
+the is new to git
